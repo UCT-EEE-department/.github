@@ -95,8 +95,6 @@ Any research or teaching work conducted in collaboration with internal or extern
 >
 > A mirror is not a fork. A fork is a copy of a repository made under a new owner, used to propose changes to the upstream project or as a starting point for a new line of development. The two differ in purpose and function.
 
-For reference, see [LawrenceStanton/SISPS-PV-PCB](https://github.com/LawrenceStanton/SISPS-PV-PCB/blob/master/.github/workflows/mirror.yml) as an example of mirroring an external repository using GitHub Actions.
-
 ### Appropriate Contents
 
 Repositories in this organisation should only contain code and other assets that are appropriate for git-based version control. This includes:
